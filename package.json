@@ -6,6 +6,7 @@
   "author": "Lucas Nascimento",
   "license": "MIT",
   "repository": {
+    "type": "git",
     "url": "git://github.com/CSALucasNascimento/pt-db.git"
   },
   "dependencies": {
